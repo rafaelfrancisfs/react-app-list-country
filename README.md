@@ -10,6 +10,6 @@ Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Objetivos
-Criação de um app para listar países a partir da API https://restcountries.eu/rest/v2/all ;
-Input para filtrar os países ;
-Exibir quantidade de países e soma da população dos países filtrados;
+Criação de um app para listar países a partir da API https://restcountries.eu/rest/v2/all ;<br>
+Input para filtrar os países ;<br>
+Exibir quantidade de países e soma da população dos países filtrados;<br>
